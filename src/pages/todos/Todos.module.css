@@ -1,0 +1,11 @@
+.todos-wrapper {
+  padding: 1rem 0;
+}
+
+.todos ul {
+  padding: 0;
+}
+
+.todo-item {
+  list-style-type: none;
+}
